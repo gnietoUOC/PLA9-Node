@@ -1,0 +1,3 @@
+# Según la documentación que he encontrado, es la única carpeta de Node-RED 
+# que no requiere ser persistida
+node_modules/
